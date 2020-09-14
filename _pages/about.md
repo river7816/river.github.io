@@ -18,9 +18,9 @@ social: true
 I'm a Masters student at the [University of Toronto](https://web.cs.toronto.edu/) & [Vector Institute](https://vectorinstitute.ai/) advised by [Prof. Anna Goldenberg](http://goldenberglab.ca/), [Prof. Marzyeh Ghassemi](http://www.marzyehghassemi.com/), and [Prof. Nicolas Papernot](https://www.papernot.fr/). I'm primarily interested in ensuring that decision-making algorithms used in high risk settings have strong ethical guarantees. Thus, my research focuses on fundamental questions of responsible machine learning and using theoretical computer science for positive societal impact. Much of this work focuses on differential privacy, algorithmic fairness, and distributional robustness. Thus far, I have worked on applying this work to healthcare where these issues are incredibly important to deployment. 
 
 ### Current Projects
-1. Improving Differentially Private Learning for Long-Tailed Distributions
-2. Understanding Disparities Induced By Personalized Machine Learning
-3. Anomaly Detection for Cancer Screening of Pediatric wbMRIs
+1. Differentially Private Representation Learning
+2. Fair Use of Sensitive Attributes in Machine Learning for Healthcare
+3. Using Strongly Rayleigh Measures for Differentially Private and Fair Learning
 
 <!-- You can read more about my research agenda and the broad questions I'm interested in [here](FILL IN). -->
 
