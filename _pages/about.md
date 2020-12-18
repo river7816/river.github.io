@@ -15,11 +15,11 @@ profile:
 news: true
 social: true
 ---
-I'm a Masters student at the [University of Toronto](https://web.cs.toronto.edu/) & [Vector Institute](https://vectorinstitute.ai/) advised by [Prof. Anna Goldenberg](http://goldenberglab.ca/), [Prof. Marzyeh Ghassemi](http://www.marzyehghassemi.com/), and [Prof. Nicolas Papernot](https://www.papernot.fr/). I'm primarily interested in ensuring that decision-making algorithms used in high risk settings are trustworthy. My research focuses on fundamental questions of trustworthy machine learning and using theoretical computer science for responsible computing. I am specifically interested in fundamental research for differential privacy and algorithmic fairness. The fundamental problems I work are informed by specific privacy and fairness issues present in healthcare. 
+I'm a Masters student at the [University of Toronto](https://web.cs.toronto.edu/) & [Vector Institute](https://vectorinstitute.ai/) advised by [Prof. Anna Goldenberg](http://goldenberglab.ca/), [Prof. Marzyeh Ghassemi](http://www.marzyehghassemi.com/), and [Prof. Nicolas Papernot](https://www.papernot.fr/). I'm primarily interested in ensuring that decision-making algorithms used in high risk settings are trustworthy. My research focuses on fundamental questions of trustworthy machine learning and using theoretical computer science for responsible computing. I am specifically interested in fundamental research for differential privacy, algorithmic fairness, and computational complexity. The research questions I study are motivated by settings such as healthcare, social welfare, and consumer finance.
 
 ### Current Projects
-1. Using Strongly Rayleigh Measures for Differentially Private Fair Learning
-2. Fair Use of Sensitive Attributes in Machine Learning for Healthcare
+1. Strongly Rayleigh Measures for Differentially Private Fair Learning
+2. Fair Personalization in Machine Learning for Healthcare
 3. Privacy Amplification for Non-Uniform Subsampling
 
 <!-- You can read more about my research agenda and the broad questions I'm interested in [here](FILL IN). -->

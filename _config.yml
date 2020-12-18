@@ -80,6 +80,9 @@ collections:
   projects:
     output: false
     permalink: /projects/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
 
 news_limit: 5
 
