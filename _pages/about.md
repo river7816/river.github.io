@@ -21,7 +21,7 @@ I'm a Masters student at the [University of Toronto](https://web.cs.toronto.edu/
 1. Strongly Rayleigh Measures for Differentially Private Fair Learning
 2. Fair Personalization in Machine Learning for Healthcare
 3. Privacy Amplification for Data-Dependent Subsampling
-4. Multi-label Private and Secure Model-Agnostic Collaborative Learing
+4. Multi-label Private and Secure Model-Agnostic Collaborative Learning
 
 <!-- You can read more about my research agenda and the broad questions I'm interested in [here](FILL IN). -->
 
