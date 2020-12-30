@@ -15,12 +15,13 @@ profile:
 news: true
 social: true
 ---
-I'm a Masters student at the [University of Toronto](https://web.cs.toronto.edu/) & [Vector Institute](https://vectorinstitute.ai/) advised by [Prof. Anna Goldenberg](http://goldenberglab.ca/), [Prof. Marzyeh Ghassemi](http://www.marzyehghassemi.com/), and [Prof. Nicolas Papernot](https://www.papernot.fr/). I'm primarily interested in ensuring that decision-making algorithms used in high risk settings are trustworthy. My research focuses on fundamental questions of trustworthy machine learning and using theoretical computer science for responsible computing. I am specifically interested in fundamental research for differential privacy, algorithmic fairness, and computational complexity. The research questions I study are motivated by settings such as healthcare, social welfare, and consumer finance.
+I'm a Masters student at the [University of Toronto](https://web.cs.toronto.edu/) & [Vector Institute](https://vectorinstitute.ai/) advised by [Dr. Marzyeh Ghassemi](http://www.marzyehghassemi.com/), [Dr. Nicolas Papernot](https://www.papernot.fr/), [Dr. Berk Ustun](https://www.berkustun.com/), and [Dr. Anna Goldenberg](http://goldenberglab.ca/). My research focuses on fundamental questions of trustworthy machine learning and responsible computing. Currently, I focus on the theory and applications of **differential privacy**, **algorithmic fairness**, and **cryptography** to machine learning and healthcare. I use techniques from math, statistics, optimization, economics, and theoretical computer science (i.e. learning theory and computational complexity) to conduct this research.
 
 ### Current Projects
 1. Strongly Rayleigh Measures for Differentially Private Fair Learning
 2. Fair Personalization in Machine Learning for Healthcare
-3. Privacy Amplification for Non-Uniform Subsampling
+3. Privacy Amplification for Data-Dependent Subsampling
+4. Multi-label Private and Secure Model-Agnostic Collaborative Learing
 
 <!-- You can read more about my research agenda and the broad questions I'm interested in [here](FILL IN). -->
 
