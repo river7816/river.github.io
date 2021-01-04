@@ -20,7 +20,7 @@ Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, and M. Ghassemi. 2020.
 Medical Imaging in Deep Learning 2020  
 Chang. A\*, **V.M. Suriyakumar \***, A. Moturu\*, N. Tewattanarat, A. Doria, and A. Goldenberg.  2020. * denotes equal contribution.
 
-Collision detection for external bream radiation therapy applications in SlicerRT  
+Collision detection for external beam radiation therapy applications in SlicerRT  
 Imaging Network Ontario Conference  
 **Suriyakumar, V.M.**, R. Xu, C. Pinter, G. Fichtinger.  2017.
 
