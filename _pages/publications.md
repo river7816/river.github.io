@@ -8,6 +8,10 @@ nav: true
 ---
 ### Conferences
 
+Multi-Label Confidential and Private Collaborative Learning
+ICML 2021 (in Submission)
+Dziedzic, A., C.A. Choquette-Choo\*, N.Dullerud\*, **V.M. Suriyakumar\***, N. Papernot, S. Jha, X. Wang. 2021. * denotes equal contribution
+
 [Chasing Your Long Tails: Differentially Private Prediction in Health Care Settings](https://arxiv.org/abs/2010.06667)    
 ACM FAccT 2021  
 **Suriyakumar, V.M.**, N. Papernot, A. Goldenberg, and M. Ghassemi. 2020.
