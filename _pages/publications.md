@@ -8,17 +8,21 @@ nav: true
 ---
 ### Conferences
 
+Incorporating 3D Context to Unsupervised Cancer Detection in Pediatric WbMRI  
+(in submission)  
+Chang, A., **V.M. Suriyakumar\***, A. Moturu\*, J. Tu, N. Tewattanarat, S. Joshi, A. Doria, A. Goldenberg. 2021. * denotes equal contribution
+
 Multi-Label Confidential and Private Collaborative Learning  
-ICML 2021 (in Submission)  
-Dziedzic, A., C.A. Choquette-Choo\*, N.Dullerud\*, **V.M. Suriyakumar\***, N. Papernot, S. Jha, X. Wang. 2021. * denotes equal contribution
+(in submission)  
+Dziedzic, A., C.A. Choquette-Choo\*, N.Dullerud\*, **V.M. Suriyakumar\***, A. S. Shamsabadi, N. Papernot, S. Jha, X. Wang. 2021. * denotes equal contribution
 
 [Chasing Your Long Tails: Differentially Private Prediction in Health Care Settings](https://arxiv.org/abs/2010.06667)    
 ACM FAccT 2021  
-**Suriyakumar, V.M.**, N. Papernot, A. Goldenberg, and M. Ghassemi. 2020.
+**Suriyakumar, V.M.**, N. Papernot, A. Goldenberg, M. Ghassemi. 2020.
 
-Can You Fake It Until You Make It?: Impacts of Differentially Private Synthetic Data on Downstream Classification Fairness  
+[Can You Fake It Until You Make It?: Impacts of Differentially Private Synthetic Data on Downstream Classification Fairness ](https://dl.acm.org/doi/10.1145/3442188.3445879)  
 ACM FAccT 2021  
-Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, and M. Ghassemi. 2020.
+Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 
 [Using Generative Models for Pediatric wbMRI](https://arxiv.org/abs/2006.00727)   
 Medical Imaging in Deep Learning 2020  
