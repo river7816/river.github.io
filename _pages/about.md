@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: University of Toronto, Vector Institute, The Hospital for Sick Children
+description: Google Research
 
 profile:
   align: right
