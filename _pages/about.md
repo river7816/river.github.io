@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Google Research
+description: MIT EECS, CSAIL, LIDS, IMES
 
 profile:
   align: right
