@@ -7,14 +7,17 @@ years:
 nav: true
 ---
 ### Conferences
+[Public Data-Assisted Mirror Descent for Private Model Training](https://arxiv.org/abs/2112.00193)   
+(in submission)  
+Amid, E., A. Ganesh, R. Matthews, S. Ramaswamy, S. Song, T. Steinke, **V.M. Suriyakumar**, O. Thakkar, A. Thakurta. 2021. (alphabetical order)
+
+Private Multi-Winner Voting for Machine Learning  
+(in submission)  
+Dziedzic, A., C.A. Choquette-Choo*, N.Dullerud*, **V.M. Suriyakumar\***, A.S. Shamsabadi, N. Papernot, S. Jha, X. Wang. 2021. * denotes equal contribution
 
 Incorporating 3D Context to Unsupervised Cancer Detection in Pediatric WbMRI  
 (in submission)  
 Chang, A., **V.M. Suriyakumar\***, A. Moturu\*, J. Tu, N. Tewattanarat, S. Joshi, A. Doria, A. Goldenberg. 2021. * denotes equal contribution
-
-Multi-Label Confidential and Private Collaborative Learning  
-(in submission)  
-Dziedzic, A., C.A. Choquette-Choo\*, N.Dullerud\*, **V.M. Suriyakumar\***, A. S. Shamsabadi, N. Papernot, S. Jha, X. Wang. 2021. * denotes equal contribution
 
 [Chasing Your Long Tails: Differentially Private Prediction in Health Care Settings](https://arxiv.org/abs/2010.06667)    
 ACM FAccT 2021  
@@ -49,4 +52,11 @@ NeurIPS 2020 Privacy Preserving Machine Learning Workshop
 The Pitfalls of Differentially Private Prediction in Healthcare    
 Theory and Practice of Differential Privacy 2020    
 **Suriyakumar, V.M.**, N. Papernot, A. Goldenberg, and M. Ghassemi. 2020. 
+
+### Books and Book Chapters
+
+Differential Privacy and Medical Data Analysis  
+Differential Privacy for Artificial Intelligence Applications.   
+Now Publisher Inc.  
+**Suriyakumar, V.M.**, N. Papernot, A. Goldenberg, and M. Ghassemi. 2021. (Forthcoming)
 
