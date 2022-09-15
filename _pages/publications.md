@@ -7,6 +7,13 @@ years:
 nav: true
 ---
 ### Conferences
+
+Algorithms that Approximate Data Removal: New Results and Limitations   
+**Suriyakumar, V.M.**, A. Wilson. NeurIPS 2022. 
+
+Private Multi-Winner Voting for Machine Learning  
+Dziedzic, A., C.A. Choquette-Choo\*, N.Dullerud\*, **V.M. Suriyakumar\***, A.S. Shamsabadi, N. Papernot, S. Jha, X. Wang. PETS 2023. * denotes equal contribution
+
 [Public Data-Assisted Mirror Descent for Private Model Training](https://arxiv.org/abs/2112.00193)   
 Amid, E., A. Ganesh, R. Matthews, S. Ramaswamy, S. Song, T. Steinke, **V.M. Suriyakumar**, O. Thakkar, A. Thakurta. ICML 2022. (alphabetical order)
 
@@ -22,32 +29,13 @@ Cheng, V., **V.M. Suriyakumar**, N. Dullerud, S. Joshi, M. Ghassemi. 2020.
 Medical Imaging in Deep Learning 2020  
 Chang. A\*, **V.M. Suriyakumar \***, A. Moturu\*, N. Tewattanarat, A. Doria, and A. Goldenberg.  2020. * denotes equal contribution.
 
-Collision detection for external beam radiation therapy applications in SlicerRT  
-Imaging Network Ontario Conference  
-**Suriyakumar, V.M.**, R. Xu, C. Pinter, G. Fichtinger.  2017.
-
-Open-source software for collision detection in external beam radiation therapy  
-SPIE: Journal of Medical Imaging 2017, 10135-51.  
-**Suriyakumar, V.M.**, R. Xu, C. Pinter, G. Fichtinger. 2017. 
-
 ### In Submission
 
-Hulkund, N.*, **V.M. Suriyakumar\***, T. Killian, A. S. Shamsabadi, N. Papernot, M. Ghassemi. 2022. Improving Robustness to Distribution Shift with Differential Privacy. * denotes equal contribution
+Improving Robustness to Distribution Shift with Algorithmic Stability   
+Hulkund, N.*, **V.M. Suriyakumar\***, T. Killian, A. S. Shamsabadi, N. Papernot, M. Ghassemi. 2022.  * denotes equal contribution
 
-**Suriyakumar, V.M.**, A. Wilson. 2022 An Online Algorithm for Data Deletion.
-
-**Suriyakumar, V.M.**, M. Ghassemi*, B. Ustun*. 2022. When Personalization Harms: Reconsidering the Use of Group Attributes in Prediction. * denotes equal contribution
-
-
-### Preprints
-
-Private Multi-Winner Voting for Machine Learning  
-(preprint)  
-Dziedzic, A., C.A. Choquette-Choo*, N.Dullerud*, **V.M. Suriyakumar\***, A.S. Shamsabadi, N. Papernot, S. Jha, X. Wang. 2021. * denotes equal contribution
-
-Incorporating 3D Context to Unsupervised Cancer Detection in Pediatric WbMRI  
-(in submission)  
-Chang, A., **V.M. Suriyakumar\***, A. Moturu\*, J. Tu, N. Tewattanarat, S. Joshi, A. Doria, A. Goldenberg. 2021. * denotes equal contribution
+[When Personalization Harms: Reconsidering the Use of Group Attributes in Prediction](https://arxiv.org/abs/2206.02058)   
+**Suriyakumar, V.M.**, M. Ghassemi*, B. Ustun*. 2022. * denotes equal contribution
 
 <!-- ### Refereed Workshops
 
