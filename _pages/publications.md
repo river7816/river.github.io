@@ -31,8 +31,14 @@ Chang. A\*, **V.M. Suriyakumar \***, A. Moturu\*, N. Tewattanarat, A. Doria, and
 
 ### In Submission
 
+Bottleneck Theory: Centering Equal Opportunity in Systems of Algorithmic Decision-Making.   
+Jain, S.\*, **V.M. Suriyakumar\***, A. Wilson. 2023. * denotes equal contribution
+
+One-Shot Empirical Privacy Estimation for Federated Learning.   
+Andrew, G., P. Kairouz, S. Oh, A. Opera, H. B. McMahan, **V.M. Suriyakumar**. 2023. 
+
 Improving Robustness to Distribution Shift with Algorithmic Stability   
-Hulkund, N.*, **V.M. Suriyakumar\***, T. Killian, A. S. Shamsabadi, N. Papernot, M. Ghassemi. 2022.  * denotes equal contribution
+Hulkund, N.*, **V.M. Suriyakumar**, T. Killian, M. Ghassemi. 2022.
 
 [When Personalization Harms: Reconsidering the Use of Group Attributes in Prediction](https://arxiv.org/abs/2206.02058)   
 **Suriyakumar, V.M.**, M. Ghassemi*, B. Ustun*. 2022. * denotes equal contribution
