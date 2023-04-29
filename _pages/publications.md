@@ -9,7 +9,7 @@ nav: true
 ### Conferences
 
 [When Personalization Harms: Reconsidering the Use of Group Attributes in Prediction](https://arxiv.org/abs/2206.02058)   
-**Suriyakumar, V.M.**, M. Ghassemi*, B. Ustun*. ICML 2023.**(Oral, 3% of submissions)** * denotes equal contribution
+**Suriyakumar, V.M.**, M. Ghassemi\*, B. Ustun\*. ICML 2023. **(Oral, 3% of submissions)** * denotes equal supervision
 
 Algorithms that Approximate Data Removal: New Results and Limitations   
 **Suriyakumar, V.M.**, A. Wilson. NeurIPS 2022. 
