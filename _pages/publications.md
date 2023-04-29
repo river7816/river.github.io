@@ -43,9 +43,6 @@ Andrew, G., P. Kairouz, S. Oh, A. Opera, H. B. McMahan, **V.M. Suriyakumar**. 20
 Improving Robustness to Distribution Shift with Algorithmic Stability   
 Hulkund, N.*, **V.M. Suriyakumar**, T. Killian, M. Ghassemi. 2022.
 
-[When Personalization Harms: Reconsidering the Use of Group Attributes in Prediction](https://arxiv.org/abs/2206.02058)   
-**Suriyakumar, V.M.**, M. Ghassemi*, B. Ustun*. 2022. * denotes equal contribution
-
 <!-- ### Refereed Workshops
 
 The Challenges of Differentially Private Prediction in Healthcare    
