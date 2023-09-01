@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: MIT EECS, CSAIL, LIDS, IMES
+description: MIT EECS, CSAIL, LIDS, IMES, Kaiser Permanente
 
 profile:
   align: right
@@ -15,7 +15,7 @@ profile:
 news: true
 social: true
 ---
- I am a second year PhD student at MIT EECS affiliated with CSAIL, LIDS, and IMES where I am advised by [Dr. Ashia Wilson](https://www.ashiawilson.com/) and [Dr. Marzyeh Ghassemi](http://www.marzyehghassemi.com/). My research focuses on trustworthy machine learning. Currently, I study questions on protecting data privacy, fairness of algorithmic decision-making, and uncertainty quantification. I also work on translating this research to important healthcare settings such as improving equity in maternal heatlh and organ procurement processes. I am supported by a Wellcome Trust Fellowship.
+ I am a third year PhD student at MIT EECS affiliated with CSAIL, LIDS, and IMES where I am advised by [Dr. Ashia Wilson](https://www.ashiawilson.com/) and [Dr. Marzyeh Ghassemi](http://www.marzyehghassemi.com/). My research focuses on the intersection of machine learning, statistical inference, and society. Currently, I focus on building theoretically principled algorithms to address societal concerns surrounding the use of generative models (e.g. LLMs and diffusion models) and the fairness of algorithmic decision making. Additionally, I work on addressing health inequities in maternal health and organ procurement processes. Previously, I worked on differentially private machine learning and machine unlearning. 
  
  I completed my Masters in May 2021 at the [University of Toronto](https://web.cs.toronto.edu/) & [Vector Institute](https://vectorinstitute.ai/) advised by [Dr. Marzyeh Ghassemi](http://www.marzyehghassemi.com/), [Dr. Nicolas Papernot](https://www.papernot.fr/), [Dr. Berk Ustun](https://www.berkustun.com/), and [Dr. Anna Goldenberg](http://goldenberglab.ca/). My thesis was focused on differential privacy and algorithmic fairness in machine learning for healthcare.
 <!-- You can read more about my research agenda and the broad questions I'm interested in [here](FILL IN). -->

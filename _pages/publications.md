@@ -8,13 +8,17 @@ nav: true
 ---
 ### Conferences
 
-[When Personalization Harms: Reconsidering the Use of Group Attributes in Prediction](https://arxiv.org/abs/2206.02058)   
-**Suriyakumar, V.M.**, M. Ghassemi\*, B. Ustun\*. ICML 2023. **(Oral, 3% of submissions)** * denotes equal supervision
+[Algorithmic Pluralism: A Structural Approach Towards Equal Opportunity](https://arxiv.org/abs/2305.08157)   
+Jain, S., **V.M. Suriyakumar**, K. Creel, A. Wilson. EAAMO 2023. * denotes equal contribution
 
-Algorithms that Approximate Data Removal: New Results and Limitations   
+
+[When Personalization Harms: Reconsidering the Use of Group Attributes in Prediction](https://arxiv.org/abs/2206.02058)   
+**Suriyakumar, V.M.**, M. Ghassemi\*, B. Ustun\*. ICML 2023. **(Oral, Top 3% of submissions)** * denotes equal supervision
+
+[Algorithms that Approximate Data Removal: New Results and Limitations](https://arxiv.org/abs/2209.12269)   
 **Suriyakumar, V.M.**, A. Wilson. NeurIPS 2022. 
 
-Private Multi-Winner Voting for Machine Learning  
+[Private Multi-Winner Voting for Machine Learning](https://arxiv.org/abs/2211.15410)  
 Dziedzic, A., C.A. Choquette-Choo\*, N.Dullerud\*, **V.M. Suriyakumar\***, A.S. Shamsabadi, N. Papernot, S. Jha, X. Wang. PETS 2023. * denotes equal contribution
 
 [Public Data-Assisted Mirror Descent for Private Model Training](https://arxiv.org/abs/2112.00193)   
@@ -34,10 +38,7 @@ Chang. A\*, **V.M. Suriyakumar \***, A. Moturu\*, N. Tewattanarat, A. Doria, and
 
 ### In Submission
 
-Bottleneck Theory: Centering Equal Opportunity in Systems of Algorithmic Decision-Making.   
-Jain, S.\*, **V.M. Suriyakumar\***, A. Wilson. 2023. * denotes equal contribution
-
-One-Shot Empirical Privacy Estimation for Federated Learning.   
+[One-Shot Empirical Privacy Estimation for Federated Learning](https://arxiv.org/abs/2302.03098)   
 Andrew, G., P. Kairouz, S. Oh, A. Opera, H. B. McMahan, **V.M. Suriyakumar**. 2023. 
 
 Improving Robustness to Distribution Shift with Algorithmic Stability   
